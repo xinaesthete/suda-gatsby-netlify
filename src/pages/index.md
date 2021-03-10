@@ -1,21 +1,21 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: SUDA
+image: /img/000008171136.jpg
+heading: Empowering communities to be self-reliant in a sustainable environment
+subheading: Sumbawanga Development Action
 mainpitch:
-  title: Why Kaldi
+  title: Who are we?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    A small charity, based in Winchester, UK.
+     
+    Sumbawanga Development Action (SUDA) is UK registered charity #1111900 – since 2005.
+description: The idea came well before the formal establishment of the
+  organisation. After visiting the villagers in Kalalasi we discovered that
+  local people there needed some help to improve their productivity, health and
+  education infrastructure. So we raised some funds for a project to help women
+  potters improve their productivity with a more efficient kiln. We approached
+  ITDG, now Practical Action, who gave us plans for a better bonfire kiln.
 intro:
   blurbs:
     - image: /img/coffee.png
