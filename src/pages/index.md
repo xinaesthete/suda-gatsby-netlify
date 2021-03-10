@@ -2,13 +2,13 @@
 templateKey: index-page
 title: SUDA
 image: /img/000008171136.jpg
-heading: Empowering communities to be self-reliant in a sustainable environment
+heading: Self reliant community, sustainable environment.
 subheading: Sumbawanga Development Action
 mainpitch:
   title: Who are we?
   description: >
     A small charity, based in Winchester, UK.
-     
+
     Sumbawanga Development Action (SUDA) is UK registered charity #1111900 – since 2005.
 description: The idea came well before the formal establishment of the
   organisation. After visiting the villagers in Kalalasi we discovered that
@@ -19,45 +19,39 @@ description: The idea came well before the formal establishment of the
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: "Advancement of education. It goes without saying that ensuring young
+        people have a proper education is fundamental to the future of the
+        community. That doesn't just mean text-books: we strive to ensure that
+        children have adequate living conditions in which to learn and grow
+        safely."
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: Preserving and protecting good health. Whether it be treatment of illness
+        or access to clean water, there are great challenges faced by rural
+        communities. The right assistance can have a profound impact.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+      text: Greening the environment. For people on the front-lines of the climate and
+        ecological emergency we all face, restoring plant life is critical.
+    - image: /img/tutorials.png
+      text: Relieving poverty and hardship among the inhabitants of Sumbawanga. For
+        those in accute need, a helping hand to pull them onto their feet can
+        allow them to build a dignified and stable life.
+    - image: /img/meeting-space.png
+      text: Providing financial and material assistance in order to improve
+        infrastructure. There is no lack of talent or ingenuity in the
+        community, but in order to realise this potential it is sometimes
+        necessary to facilitate construction that would simply not be feasible
+        without outside help.
+  heading: Our Objectives
+  description: SUDAs vision is of communities that are self reliant in a
+    sustainable environment. While they can do most things for themselves
+    voluntarily, they do need some help.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Nothing to do with coffee
+  description: We like drinking coffee, but any mention of it here is a hold-over
+    from the template that the website started from, as opposed to anything
+    relating to the activity of the charity that this site is supposed to be
+    about. I'm not sure if this 'main' section appears anywhere, and it has
+    three 'images' in it that I haven't managed to get rid of.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
