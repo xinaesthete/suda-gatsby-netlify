@@ -18,7 +18,7 @@ description: The idea came well before the formal establishment of the
   ITDG, now Practical Action, who gave us plans for a better bonfire kiln.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/education_man.svg
       text: "Advancement of education. It goes without saying that ensuring young
         people have a proper education is fundamental to the future of the
         community. That doesn't just mean text-books: we strive to ensure that
