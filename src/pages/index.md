@@ -31,11 +31,11 @@ intro:
     - image: /img/greening.svg
       text: Greening the environment. For people on the front-lines of the climate and
         ecological emergency we all face, restoring plant life is critical.
-    - image: /img/tutorials.png
+    - image: /img/helping_hand.svg
       text: Relieving poverty and hardship among the inhabitants of Sumbawanga. For
         those in accute need, a helping hand to pull them onto their feet can
         allow them to build a dignified and stable life.
-    - image: /img/meeting-space.png
+    - image: /img/infrastructure.svg
       text: Providing financial and material assistance in order to improve
         infrastructure. There is no lack of talent or ingenuity in the
         community, but in order to realise this potential it is sometimes
