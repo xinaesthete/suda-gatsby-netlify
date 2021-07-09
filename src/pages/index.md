@@ -24,11 +24,11 @@ intro:
         community. That doesn't just mean text-books: we strive to ensure that
         children have adequate living conditions in which to learn and grow
         safely."
-    - image: /img/coffee-gear.png
+    - image: /img/health.svg
       text: Preserving and protecting good health. Whether it be treatment of illness
         or access to clean water, there are great challenges faced by rural
         communities. The right assistance can have a profound impact.
-    - image: /img/meeting-space.png
+    - image: /img/greening.svg
       text: Greening the environment. For people on the front-lines of the climate and
         ecological emergency we all face, restoring plant life is critical.
     - image: /img/tutorials.png
